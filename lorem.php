@@ -1,6 +1,6 @@
 <?php
 
-$test = 'test';
+$test = 'hello World!';
 
 printf('<p>%s</p>', $test);
 
