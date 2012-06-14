@@ -3,3 +3,12 @@ body {
   border: 1px dotted #008000;
   max-width: 960px;
 }
+content {
+  padding: 10px;
+}
+content a {
+  text-decoration: none;
+}
+content a :hover {
+  text-decoration: underline;
+}
